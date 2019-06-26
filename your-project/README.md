@@ -3,7 +3,7 @@
 # Guess the number
 *Javier*
 
-*Data Analysis, IronHack-Barcelona 28/06/2019
+Data Analysis, IronHack-Barcelona 28/06/2019
 
 ## Content
 - [Project Description](#project-description)
